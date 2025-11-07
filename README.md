@@ -5,8 +5,8 @@
 ## Website Developer  
 **Full Stack Developer**
 
-🌍 Based in Bangkok, Thailand
-🧠 Proficient in Node.js and Express, actively building with them
+*🌍 Based in Bangkok, Thailand
+*🧠 Proficient in Node.js and Express, actively building with them
 
 ### Skills
 
