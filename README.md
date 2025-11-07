@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirayus Phurisee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is **Jirayus Phurisee** you can call **JP**
 ========================================================================================================================================
 
-Website Developer
------------------
+## Website Developer  
+**Full Stack Developer**
 
-Full stack developer
-
-* 🌍  I'm based in Chiang Mai, Thailand
-* 🧠  I'm learning Node JS, Express
+🌍 Based in Bangkok, Thailand
+🧠 Proficient in Node.js and Express, actively building with them
 
 ### Skills
 
